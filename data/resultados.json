@@ -1,0 +1,2943 @@
+[
+  {
+  "Track": "Australia",
+  "Position": 1,
+  "No": 77,
+  "Driver": "Valtteri Bottas",
+  "Points": 26
+  },
+  {
+    "Track": "Australia",
+    "Position": 2,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 18
+  },
+  {
+    "Track": "Australia",
+    "Position": 3,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 15
+  },
+  {
+    "Track": "Australia",
+    "Position": 4,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 12
+  },
+  {
+    "Track": "Australia",
+    "Position": 5,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 10
+  },
+  {
+    "Track": "Australia",
+    "Position": 6,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 8
+  },
+  {
+    "Track": "Australia",
+    "Position": 7,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 6
+  },
+  {
+    "Track": "Australia",
+    "Position": 8,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 4
+  },
+  {
+    "Track": "Australia",
+    "Position": 9,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 2
+  },
+  {
+    "Track": "Australia",
+    "Position": 10,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 1
+  },
+  {
+    "Track": "Australia",
+    "Position": 11,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 0
+  },
+  {
+    "Track": "Australia",
+    "Position": 12,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 0
+  },
+  {
+    "Track": "Australia",
+    "Position": 13,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 0
+  },
+  {
+    "Track": "Australia",
+    "Position": 14,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 0
+  },
+  {
+    "Track": "Australia",
+    "Position": 15,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "Australia",
+    "Position": 16,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Australia",
+    "Position": 17,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Australia",
+    "Position": "NC",
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Australia",
+    "Position": "NC",
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 0
+  },
+  {
+    "Track": "Australia",
+    "Position": "NC",
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 0
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 1,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 25
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 2,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 18
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 3,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 16
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 4,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 12
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 5,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 10
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 6,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 8
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 7,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 6
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 8,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 4
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 9,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 2
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 10,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 1
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 11,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 12,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 0
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 13,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 14,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 15,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 16,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 17,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 0
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 18,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 0
+  },
+  {
+    "Track": "Bahrain",
+    "Position": 19,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 0
+  },
+  {
+    "Track": "Bahrain",
+    "Position": "NC",
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "China",
+    "Position": 1,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 25
+  },
+  {
+    "Track": "China",
+    "Position": 2,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 18
+  },
+  {
+    "Track": "China",
+    "Position": 3,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 15
+  },
+  {
+    "Track": "China",
+    "Position": 4,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 12
+  },
+  {
+    "Track": "China",
+    "Position": 5,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 10
+  },
+  {
+    "Track": "China",
+    "Position": 6,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 9
+  },
+  {
+    "Track": "China",
+    "Position": 7,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 6
+  },
+  {
+    "Track": "China",
+    "Position": 8,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 4
+  },
+  {
+    "Track": "China",
+    "Position": 9,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 2
+  },
+  {
+    "Track": "China",
+    "Position": 10,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 1
+  },
+  {
+    "Track": "China",
+    "Position": 11,
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "China",
+    "Position": 12,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  },
+  {
+    "Track": "China",
+    "Position": 13,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "China",
+    "Position": 14,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 0
+  },
+  {
+    "Track": "China",
+    "Position": 15,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "China",
+    "Position": 16,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "China",
+    "Position": 17,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "China",
+    "Position": 18,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 0
+  },
+  {
+    "Track": "China",
+    "Position": "NC",
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 0
+  },
+  {
+    "Track": "China",
+    "Position": "NC",
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 0
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 1,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 25
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 2,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 18
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 3,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 15
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 4,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 12
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 5,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 11
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 6,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 8
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 7,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 6
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 8,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 4
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 9,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 2
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 10,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 1
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 11,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 0
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 12,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 13,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 14,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 0
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 15,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": 16,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": "NC",
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 0
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": "NC",
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": "NC",
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 0
+  },
+  {
+    "Track": "Azerbaijan",
+    "Position": "NC",
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 0
+  },
+  {
+    "Track": "Spain",
+    "Position": 1,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 26
+  },
+  {
+    "Track": "Spain",
+    "Position": 2,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 18
+  },
+  {
+    "Track": "Spain",
+    "Position": 3,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 15
+  },
+  {
+    "Track": "Spain",
+    "Position": 4,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 12
+  },
+  {
+    "Track": "Spain",
+    "Position": 5,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 10
+  },
+  {
+    "Track": "Spain",
+    "Position": 6,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 8
+  },
+  {
+    "Track": "Spain",
+    "Position": 7,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 6
+  },
+  {
+    "Track": "Spain",
+    "Position": 8,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 4
+  },
+  {
+    "Track": "Spain",
+    "Position": 9,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 2
+  },
+  {
+    "Track": "Spain",
+    "Position": 10,
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 1
+  },
+  {
+    "Track": "Spain",
+    "Position": 11,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 0
+  },
+  {
+    "Track": "Spain",
+    "Position": 12,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 0
+  },
+  {
+    "Track": "Spain",
+    "Position": 13,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 0
+  },
+  {
+    "Track": "Spain",
+    "Position": 14,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 0
+  },
+  {
+    "Track": "Spain",
+    "Position": 15,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 0
+  },
+  {
+    "Track": "Spain",
+    "Position": 16,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "Spain",
+    "Position": 17,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Spain",
+    "Position": 18,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Spain",
+    "Position": "NC",
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  },
+  {
+    "Track": "Spain",
+    "Position": "NC",
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 0
+  },
+  {
+    "Track": "Monaco",
+    "Position": 1,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 25
+  },
+  {
+    "Track": "Monaco",
+    "Position": 2,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 18
+  },
+  {
+    "Track": "Monaco",
+    "Position": 3,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 15
+  },
+  {
+    "Track": "Monaco",
+    "Position": 4,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 12
+  },
+  {
+    "Track": "Monaco",
+    "Position": 5,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 11
+  },
+  {
+    "Track": "Monaco",
+    "Position": 6,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 8
+  },
+  {
+    "Track": "Monaco",
+    "Position": 7,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 6
+  },
+  {
+    "Track": "Monaco",
+    "Position": 8,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 4
+  },
+  {
+    "Track": "Monaco",
+    "Position": 9,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 2
+  },
+  {
+    "Track": "Monaco",
+    "Position": 10,
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 1
+  },
+  {
+    "Track": "Monaco",
+    "Position": 11,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 0
+  },
+  {
+    "Track": "Monaco",
+    "Position": 12,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 0
+  },
+  {
+    "Track": "Monaco",
+    "Position": 13,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 0
+  },
+  {
+    "Track": "Monaco",
+    "Position": 14,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "Monaco",
+    "Position": 15,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Monaco",
+    "Position": 16,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  },
+  {
+    "Track": "Monaco",
+    "Position": 17,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 0
+  },
+  {
+    "Track": "Monaco",
+    "Position": 18,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Monaco",
+    "Position": 19,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "Monaco",
+    "Position": "NC",
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 0
+  },
+  {
+    "Track": "Canada",
+    "Position": 1,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 25
+  },
+  {
+    "Track": "Canada",
+    "Position": 2,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 18
+  },
+  {
+    "Track": "Canada",
+    "Position": 3,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 15
+  },
+  {
+    "Track": "Canada",
+    "Position": 4,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 13
+  },
+  {
+    "Track": "Canada",
+    "Position": 5,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 10
+  },
+  {
+    "Track": "Canada",
+    "Position": 6,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 8
+  },
+  {
+    "Track": "Canada",
+    "Position": 7,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 6
+  },
+  {
+    "Track": "Canada",
+    "Position": 8,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 4
+  },
+  {
+    "Track": "Canada",
+    "Position": 9,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 2
+  },
+  {
+    "Track": "Canada",
+    "Position": 10,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 1
+  },
+  {
+    "Track": "Canada",
+    "Position": 11,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 0
+  },
+  {
+    "Track": "Canada",
+    "Position": 12,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 0
+  },
+  {
+    "Track": "Canada",
+    "Position": 13,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "Canada",
+    "Position": 14,
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Canada",
+    "Position": 15,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 0
+  },
+  {
+    "Track": "Canada",
+    "Position": 16,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Canada",
+    "Position": 17,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "Canada",
+    "Position": 18,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Canada",
+    "Position": "NC",
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 0
+  },
+  {
+    "Track": "Canada",
+    "Position": "NC",
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 0
+  },
+  {
+    "Track": "France",
+    "Position": 1,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 25
+  },
+  {
+    "Track": "France",
+    "Position": 2,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 18
+  },
+  {
+    "Track": "France",
+    "Position": 3,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 15
+  },
+  {
+    "Track": "France",
+    "Position": 4,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 12
+  },
+  {
+    "Track": "France",
+    "Position": 5,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 11
+  },
+  {
+    "Track": "France",
+    "Position": 6,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 8
+  },
+  {
+    "Track": "France",
+    "Position": 7,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 6
+  },
+  {
+    "Track": "France",
+    "Position": 8,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 4
+  },
+  {
+    "Track": "France",
+    "Position": 9,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 2
+  },
+  {
+    "Track": "France",
+    "Position": 10,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 1
+  },
+  {
+    "Track": "France",
+    "Position": 11,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 0
+  },
+  {
+    "Track": "France",
+    "Position": 12,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 0
+  },
+  {
+    "Track": "France",
+    "Position": 13,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  },
+  {
+    "Track": "France",
+    "Position": 14,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 0
+  },
+  {
+    "Track": "France",
+    "Position": 15,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 0
+  },
+  {
+    "Track": "France",
+    "Position": 16,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "France",
+    "Position": 17,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "France",
+    "Position": 18,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "France",
+    "Position": 19,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "France",
+    "Position": "NC",
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Austria",
+    "Position": 1,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 26
+  },
+  {
+    "Track": "Austria",
+    "Position": 2,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 18
+  },
+  {
+    "Track": "Austria",
+    "Position": 3,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 15
+  },
+  {
+    "Track": "Austria",
+    "Position": 4,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 12
+  },
+  {
+    "Track": "Austria",
+    "Position": 5,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 10
+  },
+  {
+    "Track": "Austria",
+    "Position": 6,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 8
+  },
+  {
+    "Track": "Austria",
+    "Position": 7,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 6
+  },
+  {
+    "Track": "Austria",
+    "Position": 8,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 4
+  },
+  {
+    "Track": "Austria",
+    "Position": 9,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 2
+  },
+  {
+    "Track": "Austria",
+    "Position": 10,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 1
+  },
+  {
+    "Track": "Austria",
+    "Position": 11,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 0
+  },
+  {
+    "Track": "Austria",
+    "Position": 12,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 0
+  },
+  {
+    "Track": "Austria",
+    "Position": 13,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 0
+  },
+  {
+    "Track": "Austria",
+    "Position": 14,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  },
+  {
+    "Track": "Austria",
+    "Position": 15,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 0
+  },
+  {
+    "Track": "Austria",
+    "Position": 16,
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Austria",
+    "Position": 17,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 0
+  },
+  {
+    "Track": "Austria",
+    "Position": 18,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Austria",
+    "Position": 19,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "Austria",
+    "Position": 20,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 1,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 26
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 2,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 18
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 3,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 15
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 4,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 12
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 5,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 10
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 6,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 8
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 7,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 6
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 8,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 4
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 9,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 2
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 10,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 1
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 11,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 0
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 12,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 0
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 13,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 14,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 15,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 16,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 0
+  },
+  {
+    "Track": "Great Britain",
+    "Position": 17,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 0
+  },
+  {
+    "Track": "Great Britain",
+    "Position": "NC",
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "Great Britain",
+    "Position": "NC",
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Great Britain",
+    "Position": "NC",
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "Germany",
+    "Position": 1,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 26
+  },
+  {
+    "Track": "Germany",
+    "Position": 2,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 18
+  },
+  {
+    "Track": "Germany",
+    "Position": 3,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 15
+  },
+  {
+    "Track": "Germany",
+    "Position": 4,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 12
+  },
+  {
+    "Track": "Germany",
+    "Position": 5,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 10
+  },
+  {
+    "Track": "Germany",
+    "Position": 6,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 8
+  },
+  {
+    "Track": "Germany",
+    "Position": 7,
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 6
+  },
+  {
+    "Track": "Germany",
+    "Position": 8,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 4
+  },
+  {
+    "Track": "Germany",
+    "Position": 9,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 2
+  },
+  {
+    "Track": "Germany",
+    "Position": 10,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 1
+  },
+  {
+    "Track": "Germany",
+    "Position": 11,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Germany",
+    "Position": 12,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 0
+  },
+  {
+    "Track": "Germany",
+    "Position": 13,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "Germany",
+    "Position": 14,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 0
+  },
+  {
+    "Track": "Germany",
+    "Position": "NC",
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 0
+  },
+  {
+    "Track": "Germany",
+    "Position": "NC",
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 0
+  },
+  {
+    "Track": "Germany",
+    "Position": "NC",
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 0
+  },
+  {
+    "Track": "Germany",
+    "Position": "NC",
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 0
+  },
+  {
+    "Track": "Germany",
+    "Position": "NC",
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 0
+  },
+  {
+    "Track": "Germany",
+    "Position": "NC",
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 0
+  },
+  {
+    "Track": "Hungary",
+    "Position": 1,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 25
+  },
+  {
+    "Track": "Hungary",
+    "Position": 2,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 19
+  },
+  {
+    "Track": "Hungary",
+    "Position": 3,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 15
+  },
+  {
+    "Track": "Hungary",
+    "Position": 4,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 12
+  },
+  {
+    "Track": "Hungary",
+    "Position": 5,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 10
+  },
+  {
+    "Track": "Hungary",
+    "Position": 6,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 8
+  },
+  {
+    "Track": "Hungary",
+    "Position": 7,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 6
+  },
+  {
+    "Track": "Hungary",
+    "Position": 8,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 4
+  },
+  {
+    "Track": "Hungary",
+    "Position": 9,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 2
+  },
+  {
+    "Track": "Hungary",
+    "Position": 10,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 1
+  },
+  {
+    "Track": "Hungary",
+    "Position": 11,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 0
+  },
+  {
+    "Track": "Hungary",
+    "Position": 12,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 0
+  },
+  {
+    "Track": "Hungary",
+    "Position": 13,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "Hungary",
+    "Position": 14,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 0
+  },
+  {
+    "Track": "Hungary",
+    "Position": 15,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 0
+  },
+  {
+    "Track": "Hungary",
+    "Position": 16,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Hungary",
+    "Position": 17,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  },
+  {
+    "Track": "Hungary",
+    "Position": 18,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "Hungary",
+    "Position": 19,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Hungary",
+    "Position": "NC",
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Belgium",
+    "Position": 1,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 25
+  },
+  {
+    "Track": "Belgium",
+    "Position": 2,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 18
+  },
+  {
+    "Track": "Belgium",
+    "Position": 3,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 15
+  },
+  {
+    "Track": "Belgium",
+    "Position": 4,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 13
+  },
+  {
+    "Track": "Belgium",
+    "Position": 5,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 10
+  },
+  {
+    "Track": "Belgium",
+    "Position": 6,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 8
+  },
+  {
+    "Track": "Belgium",
+    "Position": 7,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 6
+  },
+  {
+    "Track": "Belgium",
+    "Position": 8,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 4
+  },
+  {
+    "Track": "Belgium",
+    "Position": 9,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 2
+  },
+  {
+    "Track": "Belgium",
+    "Position": 10,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 1
+  },
+  {
+    "Track": "Belgium",
+    "Position": 11,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 0
+  },
+  {
+    "Track": "Belgium",
+    "Position": 12,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "Belgium",
+    "Position": 13,
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Belgium",
+    "Position": 14,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 0
+  },
+  {
+    "Track": "Belgium",
+    "Position": 15,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Belgium",
+    "Position": 16,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 0
+  },
+  {
+    "Track": "Belgium",
+    "Position": 17,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Belgium",
+    "Position": 18,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "Belgium",
+    "Position": "NC",
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 0
+  },
+  {
+    "Track": "Belgium",
+    "Position": "NC",
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 0
+  },
+  {
+    "Track": "Italy",
+    "Position": 1,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 25
+  },
+  {
+    "Track": "Italy",
+    "Position": 2,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 18
+  },
+  {
+    "Track": "Italy",
+    "Position": 3,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 16
+  },
+  {
+    "Track": "Italy",
+    "Position": 4,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 12
+  },
+  {
+    "Track": "Italy",
+    "Position": 5,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 10
+  },
+  {
+    "Track": "Italy",
+    "Position": 6,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 8
+  },
+  {
+    "Track": "Italy",
+    "Position": 7,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 6
+  },
+  {
+    "Track": "Italy",
+    "Position": 8,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 4
+  },
+  {
+    "Track": "Italy",
+    "Position": 9,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 2
+  },
+  {
+    "Track": "Italy",
+    "Position": 10,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 1
+  },
+  {
+    "Track": "Italy",
+    "Position": 11,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 0
+  },
+  {
+    "Track": "Italy",
+    "Position": 12,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  },
+  {
+    "Track": "Italy",
+    "Position": 13,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 0
+  },
+  {
+    "Track": "Italy",
+    "Position": 14,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Italy",
+    "Position": 15,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 0
+  },
+  {
+    "Track": "Italy",
+    "Position": 16,
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Italy",
+    "Position": 17,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Italy",
+    "Position": "NC",
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "Italy",
+    "Position": "NC",
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 0
+  },
+  {
+    "Track": "Italy",
+    "Position": "NC",
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 0
+  },
+  {
+    "Track": "Singapore",
+    "Position": 1,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 25
+  },
+  {
+    "Track": "Singapore",
+    "Position": 2,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 18
+  },
+  {
+    "Track": "Singapore",
+    "Position": 3,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 15
+  },
+  {
+    "Track": "Singapore",
+    "Position": 4,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 12
+  },
+  {
+    "Track": "Singapore",
+    "Position": 5,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 10
+  },
+  {
+    "Track": "Singapore",
+    "Position": 6,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 8
+  },
+  {
+    "Track": "Singapore",
+    "Position": 7,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 6
+  },
+  {
+    "Track": "Singapore",
+    "Position": 8,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 4
+  },
+  {
+    "Track": "Singapore",
+    "Position": 9,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 2
+  },
+  {
+    "Track": "Singapore",
+    "Position": 10,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 1
+  },
+  {
+    "Track": "Singapore",
+    "Position": 11,
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Singapore",
+    "Position": 12,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 0
+  },
+  {
+    "Track": "Singapore",
+    "Position": 13,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  },
+  {
+    "Track": "Singapore",
+    "Position": 14,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 0
+  },
+  {
+    "Track": "Singapore",
+    "Position": 15,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 0
+  },
+  {
+    "Track": "Singapore",
+    "Position": 16,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Singapore",
+    "Position": 17,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "Singapore",
+    "Position": "NC",
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 0
+  },
+  {
+    "Track": "Singapore",
+    "Position": "NC",
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 0
+  },
+  {
+    "Track": "Singapore",
+    "Position": "NC",
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Russia",
+    "Position": 1,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 26
+  },
+  {
+    "Track": "Russia",
+    "Position": 2,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 18
+  },
+  {
+    "Track": "Russia",
+    "Position": 3,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 15
+  },
+  {
+    "Track": "Russia",
+    "Position": 4,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 12
+  },
+  {
+    "Track": "Russia",
+    "Position": 5,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 10
+  },
+  {
+    "Track": "Russia",
+    "Position": 6,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 8
+  },
+  {
+    "Track": "Russia",
+    "Position": 7,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 6
+  },
+  {
+    "Track": "Russia",
+    "Position": 8,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 4
+  },
+  {
+    "Track": "Russia",
+    "Position": 9,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 2
+  },
+  {
+    "Track": "Russia",
+    "Position": 10,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 1
+  },
+  {
+    "Track": "Russia",
+    "Position": 11,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  },
+  {
+    "Track": "Russia",
+    "Position": 12,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 0
+  },
+  {
+    "Track": "Russia",
+    "Position": 13,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 0
+  },
+  {
+    "Track": "Russia",
+    "Position": 14,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 0
+  },
+  {
+    "Track": "Russia",
+    "Position": 15,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "Russia",
+    "Position": "NC",
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Russia",
+    "Position": "NC",
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Russia",
+    "Position": "NC",
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 0
+  },
+  {
+    "Track": "Russia",
+    "Position": "NC",
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 0
+  },
+  {
+    "Track": "Russia",
+    "Position": "NC",
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Japan",
+    "Position": 1,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 25
+  },
+  {
+    "Track": "Japan",
+    "Position": 2,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 18
+  },
+  {
+    "Track": "Japan",
+    "Position": 3,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 16
+  },
+  {
+    "Track": "Japan",
+    "Position": 4,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 12
+  },
+  {
+    "Track": "Japan",
+    "Position": 5,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 10
+  },
+  {
+    "Track": "Japan",
+    "Position": "DQ",
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 0
+  },
+  {
+    "Track": "Japan",
+    "Position": 6,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 8
+  },
+  {
+    "Track": "Japan",
+    "Position": 7,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 6
+  },
+  {
+    "Track": "Japan",
+    "Position": 8,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 4
+  },
+  {
+    "Track": "Japan",
+    "Position": "DQ",
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 0
+  },
+  {
+    "Track": "Japan",
+    "Position": 9,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 2
+  },
+  {
+    "Track": "Japan",
+    "Position": 10,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 1
+  },
+  {
+    "Track": "Japan",
+    "Position": 11,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 0
+  },
+  {
+    "Track": "Japan",
+    "Position": 12,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 0
+  },
+  {
+    "Track": "Japan",
+    "Position": 13,
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Japan",
+    "Position": 14,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "Japan",
+    "Position": 15,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "Japan",
+    "Position": 16,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Japan",
+    "Position": 17,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Japan",
+    "Position": "NC",
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 0
+  },
+  {
+    "Track": "Mexico",
+    "Position": 1,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 25
+  },
+  {
+    "Track": "Mexico",
+    "Position": 2,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 18
+  },
+  {
+    "Track": "Mexico",
+    "Position": 3,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 15
+  },
+  {
+    "Track": "Mexico",
+    "Position": 4,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 13
+  },
+  {
+    "Track": "Mexico",
+    "Position": 5,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 10
+  },
+  {
+    "Track": "Mexico",
+    "Position": 6,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 8
+  },
+  {
+    "Track": "Mexico",
+    "Position": 7,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 6
+  },
+  {
+    "Track": "Mexico",
+    "Position": 8,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 4
+  },
+  {
+    "Track": "Mexico",
+    "Position": 9,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 2
+  },
+  {
+    "Track": "Mexico",
+    "Position": 10,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Team": "Renault",
+    "Points": 1
+  },
+  {
+    "Track": "Mexico",
+    "Position": 11,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 0
+  },
+  {
+    "Track": "Mexico",
+    "Position": 12,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  },
+  {
+    "Track": "Mexico",
+    "Position": 13,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 0
+  },
+  {
+    "Track": "Mexico",
+    "Position": 14,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "Mexico",
+    "Position": 15,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "Mexico",
+    "Position": 16,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Mexico",
+    "Position": 17,
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Mexico",
+    "Position": 18,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Mexico",
+    "Position": "NC",
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 0
+  },
+  {
+    "Track": "Mexico",
+    "Position": "NC",
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 0
+  },
+  {
+    "Track": "United States",
+    "Position": 1,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 25
+  },
+  {
+    "Track": "United States",
+    "Position": 2,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 18
+  },
+  {
+    "Track": "United States",
+    "Position": 3,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 15
+  },
+  {
+    "Track": "United States",
+    "Position": 4,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 13
+  },
+  {
+    "Track": "United States",
+    "Position": 5,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 10
+  },
+  {
+    "Track": "United States",
+    "Position": 6,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 8
+  },
+  {
+    "Track": "United States",
+    "Position": 7,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 6
+  },
+  {
+    "Track": "United States",
+    "Position": 8,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 4
+  },
+  {
+    "Track": "United States",
+    "Position": 9,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 2
+  },
+  {
+    "Track": "United States",
+    "Position": 10,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 1
+  },
+  {
+    "Track": "United States",
+    "Position": 11,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 0
+  },
+  {
+    "Track": "United States",
+    "Position": 12,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 0
+  },
+  {
+    "Track": "United States",
+    "Position": 13,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  },
+  {
+    "Track": "United States",
+    "Position": 14,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "United States",
+    "Position": 15,
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "United States",
+    "Position": 16,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 0
+  },
+  {
+    "Track": "United States",
+    "Position": 17,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "United States",
+    "Position": 18,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "United States",
+    "Position": "NC",
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "United States",
+    "Position": "NC",
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 0
+  },
+  {
+    "Track": "Brazil",
+    "Position": 1,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 25
+  },
+  {
+    "Track": "Brazil",
+    "Position": 2,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 18
+  },
+  {
+    "Track": "Brazil",
+    "Position": 3,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 15
+  },
+  {
+    "Track": "Brazil",
+    "Position": 4,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 12
+  },
+  {
+    "Track": "Brazil",
+    "Position": 5,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 10
+  },
+  {
+    "Track": "Brazil",
+    "Position": 6,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 8
+  },
+  {
+    "Track": "Brazil",
+    "Position": 7,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 6
+  },
+  {
+    "Track": "Brazil",
+    "Position": 8,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 4
+  },
+  {
+    "Track": "Brazil",
+    "Position": 9,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 2
+  },
+  {
+    "Track": "Brazil",
+    "Position": 10,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 1
+  },
+  {
+    "Track": "Brazil",
+    "Position": 11,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "Brazil",
+    "Position": 12,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Brazil",
+    "Position": 13,
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Brazil",
+    "Position": 14,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 0
+  },
+  {
+    "Track": "Brazil",
+    "Position": 15,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 0
+  },
+  {
+    "Track": "Brazil",
+    "Position": 16,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Brazil",
+    "Position": 17,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 0
+  },
+  {
+    "Track": "Brazil",
+    "Position": 18,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 0
+  },
+  {
+    "Track": "Brazil",
+    "Position": 19,
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  },
+  {
+    "Track": "Brazil",
+    "Position": "NC",
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 0
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 1,
+    "No": 44,
+    "Driver": "Lewis Hamilton",
+    "Points": 26
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 2,
+    "No": 33,
+    "Driver": "Max Verstappen",
+    "Points": 18
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 3,
+    "No": 16,
+    "Driver": "Charles Leclerc",
+    "Points": 15
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 4,
+    "No": 77,
+    "Driver": "Valtteri Bottas",
+    "Points": 12
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 5,
+    "No": 5,
+    "Driver": "Sebastian Vettel",
+    "Points": 10
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 6,
+    "No": 23,
+    "Driver": "Alexander Albon",
+    "Points": 8
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 7,
+    "No": 11,
+    "Driver": "Sergio Perez",
+    "Points": 6
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 8,
+    "No": 4,
+    "Driver": "Lando Norris",
+    "Points": 4
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 9,
+    "No": 26,
+    "Driver": "Daniil Kvyat",
+    "Points": 2
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 10,
+    "No": 55,
+    "Driver": "Carlos Sainz",
+    "Points": 1
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 11,
+    "No": 3,
+    "Driver": "Daniel Ricciardo",
+    "Points": 0
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 12,
+    "No": 27,
+    "Driver": "Nico Hulkenberg",
+    "Points": 0
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 13,
+    "No": 7,
+    "Driver": "Kimi Raikkönen",
+    "Points": 0
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 14,
+    "No": 20,
+    "Driver": "Kevin Magnussen",
+    "Points": 0
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 15,
+    "No": 8,
+    "Driver": "Romain Grosjean",
+    "Points": 0
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 16,
+    "No": 99,
+    "Driver": "Antonio Giovinazzi",
+    "Points": 0
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 17,
+    "No": 63,
+    "Driver": "George Russell",
+    "Points": 0
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 18,
+    "No": 10,
+    "Driver": "Pierre Gasly",
+    "Points": 0
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": 19,
+    "No": 88,
+    "Driver": "Robert Kubica",
+    "Points": 0
+  },
+  {
+    "Track": "Abu Dhabi",
+    "Position": "NC",
+    "No": 18,
+    "Driver": "Lance Stroll",
+    "Points": 0
+  }
+]

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<drivers>
+<driver number="44" >
+  <name>Lewis Hamilton</name>
+  <team>Mercedes</team>
+  <dob>07/07/1985</dob>
+</driver>
+<driver number="77" >
+  <name>Valtteri Bottas</name>
+  <team>Mercedes</team>
+  <dob>28/08/1989</dob>
+</driver>
+<driver number="33" >
+  <name>Max Verstappen</name>
+  <team>Red Bull Racing</team>
+  <dob>30/09/1997</dob>
+</driver>
+<driver number="16" >
+  <name>Charles Leclerc</name>
+  <team>Ferrari</team>
+  <dob>16/10/1997</dob>
+</driver>
+<driver number="5" >
+  <name>Sebastian Vettel</name>
+  <team>Ferrari</team>
+  <dob>03/07/1987</dob>
+</driver>
+<driver number="55" >
+  <name>Carlos Sainz</name>
+  <team>McLaren</team>
+  <dob>01/09/1994</dob>
+</driver>
+<driver number="10" >
+  <name>Pierre Gasly</name>
+  <team>Toro Rosso</team>
+  <dob>07/02/1996</dob>
+</driver>
+<driver number="23" >
+  <name>Alexander Albon</name>
+  <team>Red Bull Racing</team>
+  <dob>23/03/1996</dob>
+</driver>
+<driver number="3" >
+  <name>Daniel Ricciardo</name>
+  <team>Renault</team>
+  <dob>01/07/1989</dob>
+</driver>
+<driver number="11" >
+  <name>Sergio Perez</name>
+  <team>Racing Point</team>
+  <dob>26/01/1990</dob>
+</driver>
+<driver number="4" >
+  <name>Lando Norris</name>
+  <team>McLaren</team>
+  <dob>13/11/1999</dob>
+</driver>
+<driver number="7" >
+  <name>Kimi Raikkönen</name>
+  <team>Alfa Romeo</team>
+  <dob>17/10/1979</dob>
+</driver>
+<driver number="26" >
+  <name>Daniil Kvyat</name>
+  <team>Toro Rosso</team>
+  <dob>26/04/1994</dob>
+</driver>
+<driver number="27" >
+  <name>Nico Hulkenberg</name>
+  <team>Renault</team>
+  <dob>19/08/1987</dob>
+</driver>
+<driver number="18" >
+  <name>Lance Stroll</name>
+  <team>Racing Point</team>
+  <dob>29/10/1998</dob>
+</driver>
+<driver number="20" >
+  <name>Kevin Magnussen</name>
+  <team>Haas</team>
+  <dob>05/10/1992</dob>
+</driver>
+<driver number="99" >
+  <name>Antonio Giovinazzi</name>
+  <team>Alfa Romeo</team>
+  <dob>14/12/1993</dob>
+</driver>
+<driver number="8" >
+  <name>Romain Grosjean</name>
+  <team>Haas</team>
+  <dob>17/04/1986</dob>
+</driver>
+<driver number="88" >
+  <name>Robert Kubica</name>
+  <team>Williams</team>
+  <dob>07/12/1984</dob>
+</driver>
+<driver number="63" >
+  <name>George Russell</name>
+  <team>Williams</team>
+  <dob>15/02/1998</dob>
+</driver>
+</drivers>
